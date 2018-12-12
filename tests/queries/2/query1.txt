@@ -1,0 +1,3 @@
+SELECTe *
+FROM students
+WHERE age <= 18;

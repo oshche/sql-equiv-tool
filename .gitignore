@@ -2,6 +2,5 @@
 .idea/
 *.json
 *.avi
-*.txt
 __pycache__
 *.pyc
